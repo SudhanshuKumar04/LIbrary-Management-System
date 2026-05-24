@@ -1,0 +1,16 @@
+# XAMPP/OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Database configuration (sensitive info)
+includes/config.php
+
+# IDE files
+.vscode/
+.idea/
+.trae/
+
+# Temp files
+*.log
+tmp/
