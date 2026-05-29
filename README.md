@@ -26,6 +26,53 @@ A luxurious, modern, and admin-focused E-Library Management System built with PH
 - `includes/` - Core logic (Auth, DB, Functions, Layout)
 - `database/` - SQL schema and seed data
 
+## 📸 Project Screenshots
+
+### 1️⃣ Homepage
+Modern landing page with responsive design and digital library features.
+
+![Homepage](HomePage.png)
+
+### 2️⃣ Admin Login
+Secure administrator authentication with human verification.
+
+![Admin Login](Admin-Login.png)
+
+### 3️⃣ Dashboard
+Centralized dashboard showing books, students, issued books, returns, and system statistics.
+
+![Dashboard](DASHBOARD.PNG)
+
+### 4️⃣ Book Management
+Manage library inventory with search, update, and delete functionality.
+
+![Book Management](book-management.png)
+
+### 5️⃣ Student Management
+Student record management with search and administration features.
+
+![Student Management](student-management.png)
+
+### 6️⃣ Issue Book
+Issue books to students with automatic due-date assignment.
+
+![Issue Book](issue-book.PNG)
+
+### 7️⃣ Return Book
+Track and process returned books efficiently.
+
+![Return Book](return-book.PNG)
+
+### 8️⃣ Reports
+Generate and monitor issued, returned, and overdue book reports.
+
+![Reports](reports.PNG)
+
+### 9️⃣ Admin Management
+Manage administrator accounts, roles, and permissions.
+
+![Admin Management](admin-management.PNG)
+
 ## 🚀 Setup Instructions
 
 1. **Clone/Copy**: Move the project to your local server directory (e.g., `htdocs` for XAMPP).
