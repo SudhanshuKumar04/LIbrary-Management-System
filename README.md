@@ -31,47 +31,47 @@ A luxurious, modern, and admin-focused E-Library Management System built with PH
 ### 1️⃣ Homepage
 Modern landing page with responsive design and digital library features.
 
-![Homepage](HomePage.png)
+<img src="HomePage.png" width="900">
 
 ### 2️⃣ Admin Login
 Secure administrator authentication with human verification.
 
-![Admin Login](Admin-Login.png)
+<img src="Admin-Login.png" width="900">
 
 ### 3️⃣ Dashboard
 Centralized dashboard showing books, students, issued books, returns, and system statistics.
 
-![Dashboard](DASHBOARD.PNG)
+<img src="DASHBOARD.PNG" width="900">
 
 ### 4️⃣ Book Management
 Manage library inventory with search, update, and delete functionality.
 
-![Book Management](book-management.png)
+<img src="book-management.png" width="900">
 
 ### 5️⃣ Student Management
 Student record management with search and administration features.
 
-![Student Management](student-management.png)
+<img src="student-management.png" width="900">
 
 ### 6️⃣ Issue Book
 Issue books to students with automatic due-date assignment.
 
-![Issue Book](issue-book.PNG)
+<img src="issue-book.PNG" width="900">
 
 ### 7️⃣ Return Book
 Track and process returned books efficiently.
 
-![Return Book](return-book.PNG)
+<img src="return-book.PNG" width="900">
 
 ### 8️⃣ Reports
 Generate and monitor issued, returned, and overdue book reports.
 
-![Reports](reports.PNG)
+<img src="reports.PNG" width="900">
 
 ### 9️⃣ Admin Management
 Manage administrator accounts, roles, and permissions.
 
-![Admin Management](admin-management.PNG)
+<img src="admin-management.PNG" width="900">
 
 ## 🚀 Setup Instructions
 
